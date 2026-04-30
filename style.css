@@ -1,0 +1,32 @@
+body h1{
+    color:red;
+}
+
+.youtube{
+   padding:10px;
+    background-color:blue;
+    border-radius:5px;
+    opacity: 0.6;
+    color:white;
+}
+.youtube:hover{
+    opacity: 1;
+}
+.WRC{
+    color:blue;
+}
+.WRC:hover{
+    color:green;
+    
+}
+ul li{
+    display:inline-block;
+}
+p{
+    margin:0;
+}
+.twitter{
+    margin-top: 10px;
+    font-size: 100px;
+    color:aqua;
+}
